@@ -57,7 +57,7 @@ A rectangular Area of Interest (AOI) defined by the polygon:
 
 ## Usage
 
-1. Open the script in the [Google Earth Engine Code Editor](https://code.earthengine.google.com/).
+1. Open the script in the [Google Earth Engine Code Editor](https://code.earthengine.google.com/). https://code.earthengine.google.com/ee53535dfbe5cbe2d5716609f2adef1e
 2. Run the script.
 3. Use the **"Pilih Periode Peta"** dropdown (top-left panel) to switch between semesters.
 4. Click any point on the water to view its 3.5-year historical trend charts.
